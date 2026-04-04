@@ -2,4 +2,4 @@
 
 CV gap analysis, not a CV writer. Analyses the gap between your CV and a job description using the ATS-CVC Framework.
 
-**[View the project & use the tool →](https://wellbelove.org/ATS-CVC/)**
+**[View the project →](https://wellbelove.org/ATS-CVC/)** | **[Use the tool →](https://wellbelove.org/ATS-CVC/tool/)**

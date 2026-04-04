@@ -2,11 +2,11 @@
 
 **CV gap analysis. Not a CV writer.**
 
+**[View the project page](https://wellbelove.org/ATS-CVC/)** | **[Use the tool](https://wellbelove.org/ATS-CVC/)**
+
 ATS-CVC analyses the gap between how you present yourself and what a hiring manager is actually looking for. It applies the [ATS-CVC Framework](METHODOLOGY.md) to your CV and a specific job description, then tells you what is missing, what is undersold, and what a hiring manager will probe on in interview.
 
 It does not write your CV. That is your job.
-
-→ **[Use the tool](https://wblv-dev.github.io/ats-cvc/)**
 
 ---
 
